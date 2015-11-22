@@ -1,0 +1,15 @@
+C:\Users\LuckyPCsolutions\Desktop\LOIC-master\LOIC-master\bin\Debug\IRC.dll
+C:\Users\LuckyPCsolutions\Desktop\LOIC-master\LOIC-master\bin\Debug\IRC.pdb
+C:\Users\LuckyPCsolutions\Desktop\LOIC-master\LOIC-master\IRC\obj\Debug\IRC.csprojResolveAssemblyReference.cache
+C:\Users\LuckyPCsolutions\Desktop\LOIC-master\LOIC-master\IRC\obj\Debug\IRC.dll
+C:\Users\LuckyPCsolutions\Desktop\LOIC-master\LOIC-master\IRC\obj\Debug\IRC.pdb
+C:\Users\LuckyPCsolutions\Desktop\loic3\LOIC-master\bin\Debug\IRC.dll
+C:\Users\LuckyPCsolutions\Desktop\loic3\LOIC-master\bin\Debug\IRC.pdb
+C:\Users\LuckyPCsolutions\Desktop\loic3\LOIC-master\IRC\obj\Debug\IRC.csprojResolveAssemblyReference.cache
+C:\Users\LuckyPCsolutions\Desktop\loic3\LOIC-master\IRC\obj\Debug\IRC.dll
+C:\Users\LuckyPCsolutions\Desktop\loic3\LOIC-master\IRC\obj\Debug\IRC.pdb
+C:\Users\LuckyPCsolutions\Desktop\WinNUKE\LOIC-master\bin\Debug\IRC.dll
+C:\Users\LuckyPCsolutions\Desktop\WinNUKE\LOIC-master\bin\Debug\IRC.pdb
+C:\Users\LuckyPCsolutions\Desktop\WinNUKE\LOIC-master\IRC\obj\Debug\IRC.csprojResolveAssemblyReference.cache
+C:\Users\LuckyPCsolutions\Desktop\WinNUKE\LOIC-master\IRC\obj\Debug\IRC.dll
+C:\Users\LuckyPCsolutions\Desktop\WinNUKE\LOIC-master\IRC\obj\Debug\IRC.pdb
